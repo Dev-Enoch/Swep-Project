@@ -15,7 +15,5 @@ elif user_input == "no":
 else:
     print("Invalid choice.")
 
-# Printing the user input
-
 
     
